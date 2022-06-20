@@ -1,0 +1,10 @@
+# fill these and uncomment
+env = dict(
+        TELEGRAM_BOT_TOKEN="5477097745:AAFnyI_DdJHVmQMv32HHLeRNcIV7D3j3hrY",
+        TWITTER_CONSUMER_KEY="OsHwwDQB7w0hH3HsqIiyGJ2GI",
+        TWITTER_CONSUMER_SECRET="lY6rethHr0wgdzBI3F8SBMKlRB4ABHXMpo7m96ztogUCVIB9z9",
+
+# optional
+        # TWITTER_ACCESS_TOKEN="VALUE",
+        # TWITTER_ACCESS_TOKEN_SECRET="VALUE",
+)
